@@ -2,9 +2,7 @@
 
 A typing speed test for your desktop, written in Java Swing. Type a sentence, see your speed and accuracy, chase a goal, unlock trophies, and find out which keys you keep getting wrong.
 
-<!-- Add a screenshot: save it as docs/screenshot.png, then delete this line's comment markers.
-![SpeedyType screenshot](docs/screenshot.png)
--->
+<img width="998" height="668" alt="Screenshot 2026-10-27 at 5 38 50 pm" src="https://github.com/user-attachments/assets/982dab36-b2e7-44d6-8ccc-f96090fd108f" />
 
 ## About this project
 
@@ -43,7 +41,7 @@ It's inspired by [Monkeytype](https://monkeytype.com/) but is an independent pro
 ## Build and run
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/speedytype.git
+git clone https://github.com/s4251447/speedytype.git
 cd speedytype
 
 mvn clean package
